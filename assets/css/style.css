@@ -14,7 +14,21 @@
     background-color: white;
     display: inline-block;
     width: 98vw;
-    border: 3px solid #e64e79;
+    border: 3px solid #0D7AA9;
     border-radius: 5px;
     margin: 6px;
+}
+
+body {
+    font-family: 'Roboto Slab', arial;
+    background-color: #A6C8D7;
+}
+
+#quizBody {
+    text-align: center;
+    padding: 12vh;
+}
+
+h4 {
+    padding: 10px 8px 10px 8px;
 }
