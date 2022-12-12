@@ -3,11 +3,11 @@
 ## Description
 A timed coding quiz that gains 20 seconds for every right answer and loses 15 seconds for every wrong answer. I hope you enjoy my quiz!
 ## Screenshot
-Screen Shot 2022-12-12 at 10.16.29 AM.png
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/ChrisTorres/Desktop/Screen%20Shot%202022-12-12%20at%2010.16.29%20AM.png?version%3D1670858621159)
 
-Screen Shot 2022-12-12 at 10.18.07 AM.png
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/ChrisTorres/Desktop/Screen%20Shot%202022-12-12%20at%2010.18.07%20AM.png?version%3D1670858642149)
 
-Screen Shot 2022-12-12 at 10.19.07 AM.png
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/ChrisTorres/Desktop/Screen%20Shot%202022-12-12%20at%2010.19.07%20AM.png?version%3D1670858656357)
 
 ## Link
 https://github.com/Ctorre-21/code-quiz
