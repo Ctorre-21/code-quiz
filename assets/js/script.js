@@ -114,7 +114,7 @@ function resetGame() {
 
   var quizContent = `
     <h1>
-        JavaScript Quiz!
+        Coding Quiz!
     </h1>
     <h3>
         Click to play!   
